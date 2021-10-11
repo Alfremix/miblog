@@ -1,0 +1,21 @@
+body {
+    background-color: darkgrey;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+    border-color: aqua;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+hr{
+    color: aqua;
+}
+* img{
+    width: 300px;
+}
